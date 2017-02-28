@@ -1,0 +1,142 @@
+@font-face {
+    font-family: 'wf_segoe-ui_light';
+    src: url('http://i.s-microsoft.com/fonts/segoe-ui/west-european/light/latest.eot');
+    src: url('http://i.s-microsoft.com/fonts/segoe-ui/west-european/light/latest.eot?#iefix') format('embedded-opentype'),url('http://i.s-microsoft.com/fonts/segoe-ui/west-european/light/latest.woff') format('woff'),url('http://i.s-microsoft.com/fonts/segoe-ui/west-european/light/latest.ttf') format('truetype'),url('http://i.s-microsoft.com/fonts/segoe-ui/west-european/light/latest.svg#web') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    margin: 16px 0px 0px 0px;
+    font-family: wf_SegoeUI,"Segoe UI","Segoe","Segoe WP","Tahoma","Verdana",”Helvetica”,"Arial","sans-serif";
+    font-size:15px;
+}
+
+#chP a:hover,#chS a:hover,.din a:hover{
+    color:#57b4ff;
+    text-decoration: underline;
+}
+
+
+#shareShelf {
+    position: fixed;
+    background: #e1e1e1;
+    width: 28px;
+    padding: 20px;
+    z-index: 100;
+    right: 0px;
+    bottom: 50%;
+    margin-bottom: -106px;
+    padding-bottom: 0px;
+}
+
+#shareShelf a {
+    display: block;
+    margin-bottom: 20px;
+}
+
+#shareShelf a img {
+    border: none;
+}
+#Contant{
+    margin:0px;
+}
+.pr {
+    position: relative;
+}
+.center {
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 996px;
+}
+.pl16 {
+    padding-left: 40px;
+}
+
+.mt16 {
+    margin-top: 25px;
+}
+.mt19 {
+    margin-top: 9px;
+}
+.fs28 {
+    font-size: 16px;
+}
+#chP div, #chS div {
+    display: inline;
+    margin-right: 30px;
+}
+header a{
+    text-decoration:none;
+    color:black;
+}
+.active{
+    color: #57b4ff;
+}
+#ContantArea{
+    margin-left: 18px;
+    margin-right:18px;
+    padding-left: 20px;
+    padding-right: 19px;
+    padding-bottom: 0px;
+    padding-top:0px;
+    font-weight: normal;
+    color:black;
+    line-height: 1.25;
+}
+
+.mainzone{
+    width:996px;
+}
+.mainzone .title{
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.mainzone .light{
+    font-family: wf_segoe-ui_light, "wf_SegoeUILight","wf_SegoeUI","Segoe UI Light","Segoe WP Light","Segoe UI",Segoe,"Segoe WP","Tahoma","Verdana","Helvetica","Arial","sans-serif";
+}
+.mainzone img{
+    max-width: 100%;
+    padding: 0px;
+    margin-bottom: 18px;
+}
+.mainzone .left {
+    float: left;
+}
+.mainzone .right {
+    float: left;
+}
+.mainzone h4{
+    font-size:24px;
+    font-weight: 300;
+    margin-bottom: 18px;
+    margin-top:0px;
+}
+.pro_info{
+    line-height: 1.5;
+    text-align: justify;
+    word-wrap: break-word;
+}
+footer{
+    padding-top: 20px;
+}
+
+.dib,.din {
+    display: inline-block;
+}
+.dib{
+    font-size: 25px;
+    padding-right: 20px;
+}
+#foot{
+    padding-left: 40px;
+    margin-bottom: 40px;
+}
+.din{
+    padding-right: 20px;
+}
+.din a{
+    text-decoration: none;
+    color:black;
+}
